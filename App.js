@@ -14,7 +14,7 @@ export default function App() {
   }
   return (
     <View style={styles.container}>
-      <Text style={[styles.text, {fontFamily:"aror"} ]}>আদর নৈর্ঋত</Text>
+      <Text style={[styles.text, {fontFamily:"ador"} ]}>আদর নৈর্ঋত</Text>
       <Text style={[styles.text,  {fontFamily:"luxS"}]}>Nova Oval</Text>
       <Text style={[styles.text,  {fontFamily:"nova"}]}>Luxurious Script</Text>
       <StatusBar style="auto" />
